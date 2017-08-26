@@ -46,10 +46,6 @@ The user with username "kabanossi", some of the subreddits recommended for him a
 
 Don't use RNN (Recurrent Neural Network) language model.
 
-## Programming Language
-
-We don't have any preference over programming language but we would like to have the submission on Github or Bitbucket along with the output (.CSV) or any documentation you have.
-
 ## Evaluation
 
 You will be evaluated based on the accuracy of the output, documentation, code quality, code documentation and explanation about how you have reached to the solution.
