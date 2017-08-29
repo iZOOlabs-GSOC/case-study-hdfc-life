@@ -50,6 +50,19 @@ Don't use RNN (Recurrent Neural Network) language model.
 
 You will be evaluated based on the accuracy of the output, documentation, code quality, code documentation and explanation about how you have reached to the solution.
 
+## Evaluation Criteria
+Data Exploration
+
+Student response addresses the most important characteristics of the dataset and uses these characteristics to inform their analysis. Important characteristics include:
+* Total number of data points
+* Allocation across classes (POI/non-POI)
+* Number of features used
+* Are there features with many missing values? etc.
+
+Outlier Investigation
+
+
+
 ## Mentoring Sessions
 ### Calendar of Visitation of Academic Partner
 ##### Day -01
@@ -60,22 +73,25 @@ You will be evaluated based on the accuracy of the output, documentation, code q
 ##### Day -03
 
 ## Mentoring Sequence
-##### Harishkandan
-##### Nikhil Borkar
-##### Pankaj Meher
-##### Nikita Goel
-##### Mudassir Khan
-##### Biraj Parikh
-##### Nikhil Singh
-##### Ronak Talreja
-##### Varun Panicker
-##### Bhavesh Bhatt
-##### Gowtham Dongiri
-##### Pramod Bhalerao
-##### Saahil Sharma
-##### Arunabh Singh
-##### Ramkrishna Sahu
-##### Sagar Ambalam
-##### Bijit Deka
+* Harishkandan
+* Nikhil Borkar
+* Pankaj Meher
+* Nikita Goel
+* Mudassir Khan
+* Biraj Parikh
+* Nikhil Singh
+* Ronak Talreja
+* Varun Panicker
+* Bhavesh Bhatt
+* Gowtham Dongiri
+* Pramod Bhalerao
+* Saahil Sharma
+* Arunabh Singh
+* Ramkrishna Sahu
+* Sagar Ambalam
+* Bijit Deka
+
 ### Each Session is for 10 minutes. Make sure your quesitons are ready.
 ### Mentoring Sessions start at 10 AM - 12 PM every morning.
+
+
