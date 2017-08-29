@@ -77,4 +77,5 @@ You will be evaluated based on the accuracy of the output, documentation, code q
 ##### Ramkrishna Sahu
 ##### Sagar Ambalam
 ##### Bijit Deka
-### Each Session is for 10 minutes. Make sure your quesitons are ready. 
+### Each Session is for 10 minutes. Make sure your quesitons are ready.
+### Mentoring Sessions start at 10 AM - 12 PM every morning.
