@@ -52,29 +52,29 @@ You will be evaluated based on the accuracy of the output, documentation, code q
 
 ## Mentoring Sessions
 ### Calendar of Visitation of Academic Partner
-Day -01
-Day -02
-Day -04
-Day -05
+##### Day -01
+##### Day -02
+##### Day -04
+##### Day -05
 ### Calendar of Visitation of Industry Partner
-Day -03
+##### Day -03
 
 ## Mentoring Sequence
-Harishkandan
-Nikhil Borkar
-Pankaj Meher
-Nikita Goel
-Mudassir Khan
-Biraj Parikh
-Nikhil Singh
-Ronak Talreja
-Varun Panicker
-Bhavesh Bhatt
-Gowtham Dongiri
-Pramod Bhalerao
-Saahil Sharma
-Arunabh Singh
-Ramkrishna Sahu
-Sagar Ambalam
-Bijit Deka
+##### Harishkandan
+##### Nikhil Borkar
+##### Pankaj Meher
+##### Nikita Goel
+##### Mudassir Khan
+##### Biraj Parikh
+##### Nikhil Singh
+##### Ronak Talreja
+##### Varun Panicker
+##### Bhavesh Bhatt
+##### Gowtham Dongiri
+##### Pramod Bhalerao
+##### Saahil Sharma
+##### Arunabh Singh
+##### Ramkrishna Sahu
+##### Sagar Ambalam
+##### Bijit Deka
 ### Each Session is for 10 minutes. Make sure your quesitons are ready. 
