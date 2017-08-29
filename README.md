@@ -60,22 +60,22 @@ Student response addresses the most important characteristics of the dataset and
 * Are there features with many missing values? etc.
 
 #### Outlier Investigation
-Student response identifies outlier(s) in the data, and explains how they are removed or otherwise handled.
+* Student response identifies outlier(s) in the data, and explains how they are removed or otherwise handled.
 
 #### Create new features
-At least one new feature is implemented. Justification for that feature is provided in the written response. The effect of that feature on final algorithm performance is tested or its strength is compared to other features in feature selection. The student is not required to include their new feature in their final feature set.
+* At least one new feature is implemented. Justification for that feature is provided in the written response. The effect of that feature on final algorithm performance is tested or its strength is compared to other features in feature selection. The student is not required to include their new feature in their final feature set.
 
 #### Feature Selection
-Univariate or recursive feature selection is deployed, or features are selected by hand (different combinations of features are attempted, and the performance is documented for each one). Features that are selected are reported and the number of features selected is justified. For an algorithm that supports getting the feature importances (e.g. decision tree) or feature scores (e.g. SelectKBest), those are documented as well.
+* Univariate or recursive feature selection is deployed, or features are selected by hand (different combinations of features are attempted, and the performance is documented for each one). Features that are selected are reported and the number of features selected is justified. For an algorithm that supports getting the feature importances (e.g. decision tree) or feature scores (e.g. SelectKBest), those are documented as well.
 
 #### Feature Scaling
-If algorithm calls for scaled features, feature scaling is deployed.
+* If algorithm calls for scaled features, feature scaling is deployed.
 
 #### Pick an algorithm
-At least two different algorithms are attempted and their performance is compared, with the best performing one used in the final analysis.
+* At least two different algorithms are attempted and their performance is compared, with the best performing one used in the final analysis.
 
 #### Discuss parameter tuning and its importance.
-Response addresses what it means to perform parameter tuning and why it is important.
+* Response addresses what it means to perform parameter tuning and why it is important.
 
 #### Tune the algorithm 
 At least one important parameter tuned with at least 3 settings investigated systematically, or any of the following are true:
@@ -84,13 +84,13 @@ At least one important parameter tuned with at least 3 settings investigated sys
 * Parameter tuning incorporated into algorithm selection (i.e. parameters tuned for more than one algorithm, and best algorithm-tune combination selected for final analysis).
 
 #### Usage of Evaluation Metrics
-At least two appropriate metrics are used to evaluate algorithm performance (e.g. precision and recall), and the student articulates what those metrics measure in context of the project task.
+* At least two appropriate metrics are used to evaluate algorithm performance (e.g. precision and recall), and the student articulates what those metrics measure in context of the project task.
 
 #### Discuss validation and its importance.
-Response addresses what validation is and why it is important
+* Response addresses what validation is and why it is important
 
 #### Validation Strategy
-Performance of the final algorithm selected is assessed by splitting the data into training and testing sets or through the use of cross validation, noting the specific type of validation performed.
+* Performance of the final algorithm selected is assessed by splitting the data into training and testing sets or through the use of cross validation, noting the specific type of validation performed.
 
 ## Mentoring Sessions
 ### Calendar of Visitation of Academic Partner
